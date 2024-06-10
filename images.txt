@@ -4,4 +4,6 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 sanjusss/aliyun-ddns:0.2.7.3-linux-arm64v8
-
+arm64v8/nginx:1.26.1
+arm64v8/redis:7.2.5
+arm64v8/alpine:3.20.0
